@@ -1,0 +1,11 @@
+Package: com.hackyouriphone.snapdecent
+Name: SnapDecent
+Version: 0.2-2
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Author: CokePokes <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=snapdecent
+Section: HYI - Tweaks
+Description: Uses a file modification on every Snapchat app launch to revert back to the cool user interface. FOR THE IDIOTS: ENABLES OLD SNAPCHAT LOOK
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=snapdecent
+Maintainer: iLeoLion <repo@hackyouriphone.org>
